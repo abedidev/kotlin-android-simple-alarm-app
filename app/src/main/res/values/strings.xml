@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Alarm</string>
+    <string name="schedule_an_alarm">Schedule An Alarm</string>
+    <string name="close">close</string>
+    <string name="click_to_schedule">click to schedule</string>
+    <string name="alarm_time">alarm time</string>
+</resources>
