@@ -5,7 +5,7 @@ Simple alarm it's a small and Android app writtem in java. It make use of alarm 
 Features:
 - Schedule an alarm usin TimePicker
 - Display alarm as custom notification
-- Play custom tone mp3 sound usin MediaPlayer
+- Play custom tone mp3 sound using MediaPlayer
 
 ![screenshoot1](images/screenshot1.png)
 ![screenshoot2](images/screenshot2.png)
